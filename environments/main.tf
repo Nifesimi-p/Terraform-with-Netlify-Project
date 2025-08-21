@@ -1,6 +1,6 @@
 # Call the Netlify site module
 module "netlify_site" {
-  source = "../modules/netlify_site"
+  source = "./modules/netlify_site"
 
   site_name        = var.site_name
   site_description = var.site_description
