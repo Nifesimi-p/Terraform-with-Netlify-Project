@@ -5,6 +5,8 @@
 [![HCP Terraform](https://img.shields.io/badge/HCP_Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://cloud.hashicorp.com/)
 
 > **A modern, responsive portfolio website deployed to Netlify using Terraform with HCP (HashiCorp Cloud Platform) remote state management.**
+### 📖 Blog Post: Technical Deep Dive
+**[Building a Modern Web Deployment Pipeline: Netlify + HCP Terraform + Team Collaboration](https://my-netlify-website.hashnode.dev/building-a-modern-web-deployment-pipeline-netlify-hcp-terraform-team-collaboration)**
 
 ##  Live Demo
 
@@ -494,6 +496,16 @@ This project was created for the **HUG (HashiCorp User Group) Ibadan** Terraform
  - **Security First**: Best practices implemented throughout  
 
 ---
+
+##  Featured Content
+
+### 📖 Blog Post: Technical Deep Dive
+**[Building a Modern Web Deployment Pipeline: Netlify + HCP Terraform + Team Collaboration](https://my-netlify-website.hashnode.dev/building-a-modern-web-deployment-pipeline-netlify-hcp-terraform-team-collaboration)**
+
+*Discover the technical architecture, integration challenges, and team collaboration strategies behind this project. Written for the HUG Ibadan Terraform Challenge.*
+
+###  Live Demo
+**[View Live Site](https://paradigm-shift-z2mnjj5n.netlify.app)**
 
 ##  License
 
