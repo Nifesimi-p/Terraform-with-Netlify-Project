@@ -129,8 +129,8 @@ git --version        # Should show v2.0 or higher
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/paradigm-shift-terraform.git
-cd paradigm-shift-terraform
+git clone https://github.com/Nifesimi-p/my-netlify-website.git
+cd my-netlify-website
 ```
 
 ### 2. Set Up HCP Terraform
@@ -197,7 +197,7 @@ terraform apply   # Deploy infrastructure
 ## Project Structure
 
 ```
-paradigm-shift-terraform/
+my-netlify-website/
 ├── environments/              # Main Terraform configuration
 │   ├── backend.tf            # HCP Terraform backend configuration
 │   ├── main.tf              # Root module configuration
@@ -513,8 +513,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/paradigm-shift-terraform.svg?style=social&label=Star)](https://github.com/yourusername/paradigm-shift-terraform)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/paradigm-shift-terraform.svg?style=social&label=Fork)](https://github.com/yourusername/paradigm-shift-terraform/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Nifesimi-p/my-netlify-website.svg?style=social&label=Star)](https://github.com/yourusername/paradigm-shift-terraform)
+[![GitHub forks](https://img.shields.io/github/forks/Nifesimi-p/my-netlify-website.svg?style=social&label=Fork)](https://github.com/yourusername/paradigm-shift-terraform/fork)
 
 
 </div># my-netlify-website
