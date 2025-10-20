@@ -1,4 +1,4 @@
-# Paradigm Shift - Netlify + HCP Terraform Deployment
+# Building a Modern Web App(PARADIGM SHIFT) With Netlify & Terraform
 
 [![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
